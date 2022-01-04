@@ -4,7 +4,7 @@ import logo from "../Images/logo.svg"
 function Nav() {
     return (
         <div>
-            <div className="flex align-center py-2">
+            <div className="flex align-center p-2">
                 <div>
                     <img className="w-[200px]" src={logo} alt="" />
                 </div>

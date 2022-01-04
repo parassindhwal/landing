@@ -5,7 +5,7 @@ function Footer() {
     return (
         <div className="text-gray-500">
             
-            <div className="flex md:flex-row text-center md:text-left flex-col max-w-[1200px] mx-auto justify-between py-10">
+            <div className="flex md:flex-row text-center md:text-left flex-col max-w-[1200px] mx-auto justify-between p-10">
                 <div className="flex flex-col items-center md:items-start">
                     <img className="w-[200px] pb-2" src={logo} alt="" />
                     <p className="w-[400px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro facilis excepturi autem veniam?</p>
